@@ -1,1 +1,0 @@
-# Tilt-Controlled Fan
