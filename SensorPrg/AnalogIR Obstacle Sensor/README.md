@@ -1,1 +1,0 @@
-# AnalogIR Obstacle Sensor

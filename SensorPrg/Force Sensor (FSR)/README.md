@@ -1,1 +1,0 @@
-# Force Sensor (FSR)

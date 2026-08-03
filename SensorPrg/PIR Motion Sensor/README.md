@@ -1,1 +1,0 @@
-# DigitalPIR Motion Sensor
